@@ -2,11 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-important.svg)](https://opensource.org/licenses/MIT)
 
-Description goes here...
+This is a memory card game that checks if you've matched different pokemon cards.
 
 ## Demo
 
-[Live version on Heroku]()
+https://nodejs-project-night.fly.dev/
 
 ## Table of contents
 
